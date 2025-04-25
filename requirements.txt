@@ -1,0 +1,13 @@
+Flask
+gTTS
+deep-translator
+playsound
+Werkzeug
+SpeechRecognition
+mistralai
+python-dotenv
+google-genai 
+opencv-python 
+pyaudio 
+pillow 
+mss

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translation Practice</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Translation Practice</h1>
+        <p>Select the grammar you want to practice:</p>
+        <select id="grammar-select">
+            <option value="être (to be) - present tense">Être (To Be) - Present Tense</option>
+            <option value="demonstrative adjectives">Demonstrative Adjectives</option>
+            <option value="question words">Question Words</option>
+            <option value="negation">Negation</option>
+            <option value="possessive adjectives">Possessive Adjectives</option>
+        </select>
+        <button id="generate-button">Generate Sentence</button>
+        <audio id="audio" controls></audio>
+        <button id="reveal-button">Reveal Sentence</button>
+        <p id="french-sentence" style="display: none;"></p>
+        <input type="text" id="user-translation" placeholder="Enter your translation">
+        <button id="submit-button">Submit Translation</button>
+        <p id="feedback"></p>
+    </div>
+    <script src="{{ url_for('static', filename='js/translation_scripts.js') }}"></script>
+</body>
+</html>

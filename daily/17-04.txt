@@ -1,0 +1,135 @@
+7 colours
+blanc
+noir
+violet
+bleu
+Vert
+jaune
+Orange
+Rouge
+
+
+15 Sentences on city
+
+1 - The name of my city is Valsad.
+2 - Valsad is situated in the southern part of Gujarat.
+3 - It is three hours away from Mumbai by train.
+4 - Valsad is well-known for its mangoes.
+5 - Tithal Beach is a popular tourist spot in Valsad.
+6 - Swaminarayan Temple is a famous in city.
+7 - Valsad has a rich history and culture.
+8 - The local cuisine offers a variety of delicious Gujarati dishes.
+9 - Many people in Valsad are involved in agriculture.
+10 - Valsad's railway station is an important junction.
+11 - The city celebrates various festivals.
+12 - Valsad is a rural city.
+13 - The people of Valsad are very friendly and welcoming.
+14 - Valsad has many schools like RJJ.
+15 - I am proud to be from Valsad.
+
+1 - la nom de mon ville est Valsad.
+2 - Valsad est situate dans la sud partie de Gujarat.
+3 - Elle est trois heures loin depuis.
+4 - Valsad est bien connu pour ses mangoes.
+5 - Tithal plage est un populaire touristique
+6 - Swaminarayan temple est un celebre dans ville
+7 - Valsad a une riche historique et culture
+8 - La local cuisine propose une variete de delicieux Gujarati plats.
+9 - beaucoup personnes dens Valsad sont implique dans agriculture.
+10 - Valsad's chemin gare est une importante jonction
+11 - La ville celebre divers festivals 
+12 - Valsad est un rural ville
+13 - la personnes de Valsad sont tres amical et accueillant
+14 - Valsad a beaucoup ecole comme RJJ.
+15 - je suis fierd etre depuis Valsad
+
+25 Sentences on India
+
+1 - India is a very big country.
+2 - India is in Asia.
+3 - New Delhi is the capital of India's.
+4 - There are many people live in India.
+5 - India has old cultures.
+6 - People in India like cricket.
+7 - India has mountains and beaches.
+8 - The Taj Mahal is in India.
+9 - India has a large economy.
+10 - India makes many movies.
+11 - India has festivals with colors and lights.
+12 - Indian food uses many spices.
+13 - India is a dictatorship country.
+14 - People in India speak many languages.
+15 - history of India is very long.
+16 - India had very old cities.
+17 - Yoga started in India.
+18 - India sells lot of tea.
+19 - India forces its laws.
+20 - India is a global leader.
+
+1 - L'Inde est un tres grand pays.
+2 - L'Inde est dans Asia.
+3 - New Delhi est la capitale de l'Inde
+4 - Il y a beaucoup personnes habitent dans L'Inde
+5 - L'Inde a vieilles cultures
+6 - Gens dans L'Inde aiment cricket
+7 - L'Inde a montagnes et plages
+8 - La Taj Mahal est dans L'Inde
+9 - L'Inde a une grand economie
+10 - L'Inde fait beaucoup films
+11 - L'Inde a fetes avec couleurs et lumières
+12 - L'Inde nourriture utilise beaucoup epices
+13 - L'Inde est un dictature pays.
+14 - gens dans L'Inde parlent beaucoup langues
+15 - Histoire de L'Inde est tres longue
+16 - L'Inde a tres vieille ville.
+17 - Yoga commence dens L'Inde
+18 - L'Inde vend beaucoup de the
+19 - L'Inde forcer ses lois
+20 - L'Inde est Mondial chef
+
+French: L'Inde est un très grand pays.
+French: L'Inde est en Asie.
+French: New Delhi est la capitale de l'Inde.
+French: Beaucoup de gens vivent en Inde.
+French: L'Inde a de vieilles et intéressantes cultures.
+French: Les gens en Inde aiment le cricket.
+French: L'Inde a des montagnes et des plages.
+French: Le Taj Mahal est en Inde.
+French: L'Inde a une grande économie.
+French: L'Inde fait beaucoup de films (Bollywood).
+French: L'Inde a des fêtes avec des couleurs et des lumières.
+French: La nourriture indienne utilise beaucoup d'épices.
+French: L'Inde choisit ses dirigeants.
+French: Les gens en Inde parlent beaucoup de langues.
+French: L'histoire de l'Inde est très longue.
+French: L'Inde avait de très vieilles villes.
+French: Le yoga a commencé en Inde.
+French: L'Inde vend beaucoup de thé.
+French: L'Inde fait ses lois.
+French: L'Inde veut être un pays fort.
+
+2 mins news practice daily
+
+Good evening for todays news in AI we are covering latest update from OPENAI
+Bonsoir, Pour aujourd'hui nouvelles dans AI nous sommes revêtement dernière mise à jour de OPEN AI
+
+There are 4 new models released by Open ai
+Il y a quatra neuf modeles relacher par Open AI.
+
+1st, o3 and o4-mini models are now available
+un est o3 et o4-mini modeles sont maintenant disponible.
+
+2nd, They introduced GPT-4.1, GPT-4.1 mini and GPT-4.1 nano in the API.
+Dues, Ils ont presente GPT-4.1, GPT-4.1 mini et GPT-4.1 nano dans la API.
+
+3rd Codex CLI that helps developer.
+Trois, Codex CLI ce aide développeur.
+
+4th Evals API that helps testing code.
+quatra, Evals API ce aide test code.
+
+The release has significant impact on the developer comunity. 
+La relacher ont significatif impact sur la développeur communauté.
+
+Now, we have to wait for the other companies to react to this.
+maintenant, nous avons a attendez pour le d'autres sociétés a réagir a ce.

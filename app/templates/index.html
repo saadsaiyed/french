@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French Listening Practice</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to French Listening Practice</h1>
+        <a href="{{ url_for('routes.game') }}" class="btn">Numbers Section</a>
+        <a href="{{ url_for('routes.ai_practice') }}" class="btn">AI Practice</a>
+        <a href="{{ url_for('routes.translation_practice') }}" class="btn">Write Translations</a>
+    </div>
+</body>
+</html>
