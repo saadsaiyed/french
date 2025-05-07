@@ -1,0 +1,6 @@
+daily/
+venv/
+audio/
+.env
+temp.*
+__pycache__

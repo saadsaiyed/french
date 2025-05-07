@@ -54,5 +54,8 @@ htmlcov/
 # Ignore compiled Cython files
 *.so
 
+# Ignore generated audio files
+app/static/audio/listening_*.mp3
+
 audio/
 temp.*

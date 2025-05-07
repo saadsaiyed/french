@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let correctTranslation = '';
 
     generateButton.addEventListener('click', function () {
+        console.log('Generate button clicked');
         const grammar = grammarSelect.value;
 
         fetch('/generate_translation', {
@@ -22,8 +23,12 @@ document.addEventListener('DOMContentLoaded', function () {
         .then(response => response.json())
         .then(data => {
             correctTranslation = data.french_sentence;
-            audioElement.src = data.audio_file;
+
+            // Append a unique query parameter to the audio file URL
+            const uniqueAudioUrl = `${data.audio_file}?t=${new Date().getTime()}`;
+            audioElement.src = uniqueAudioUrl;
             audioElement.play();
+
             frenchSentenceElement.textContent = data.french_sentence;
             frenchSentenceElement.style.display = 'none';
             feedbackElement.textContent = '';
@@ -36,6 +41,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     submitButton.addEventListener('click', function () {
+        console.log('Submit button clicked');
         const userTranslation = userTranslationInput.value.trim();
 
         fetch('/check_translation', {

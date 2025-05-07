@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listening Practice</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Listening Practice</h1>
+        <textarea id="sentences-input" placeholder="Type sentences in English, one per line"></textarea>
+        <label>
+            <input type="checkbox" id="enable-translation" checked>
+            Enable Translation to French
+        </label>
+        <button id="generate-button">Generate Audio</button>
+        <div id="audio-list"></div>
+        <label>
+            <input type="checkbox" id="repeat-audio-toggle">
+            Enable Repeat Audio
+        </label>
+
+        <h2>Saved Sentences</h2>
+        <div id="saved-audio-list"></div>
+    </div>
+    <script src="{{ url_for('static', filename='js/listening_practice.js') }}"></script>
+</body>
+</html>
